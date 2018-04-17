@@ -1,12 +1,16 @@
 {
   "name": "image-zoom",
   "version": "1.0.0",
-  "description": "",
+  "description": "图片缩放",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Gxiaomin/image-zoom.git"
+  },
+  "keywords": ["zoom","image"],
+  "author": "xiaomin",
+  "license": "MIT"
 }
