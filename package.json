@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git@github.com:Gxiaomin/image-zoom.git"
   },
-  "keywords": ["zoom","image"],
+  "keywords": [
+    "zoom",
+    "image"
+  ],
   "author": "xiaomin",
   "license": "MIT"
 }
